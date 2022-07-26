@@ -1,1 +1,1 @@
-# Storage Factory Example
+# Storage Factory
